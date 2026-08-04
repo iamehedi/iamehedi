@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000814,50:001D3D,100:003566&text=Mission%20Control&fontColor=FFFFFF&fontSize=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000814,50:001D3D,100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-# 🚀 MEHEDI HASAN
+# 🚀 MISSION CONTROL
 
-### Exploring Software. Engineering Ideas. Infinite Possibilities.
+### Exploring Engineering • Building Software • Solving Problems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Mission+Status:+ONLINE;Flutter+Developer;Building+AlgebraX+Engineering+Suite;Engineering+Without+Limits;Welcome+To+Mission+Control"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Computer+Science+Student;Creator+of+AlgebraX;Offline-First+Engineering+Apps;Welcome+to+Mission+Control"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Mission+Visitors&color=0E75B6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iamehedi&label=Mission+Visitors&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -16,67 +16,49 @@
 
 # 🛰 Mission Brief
 
-```
-MISSION NAME : AlgebraX
-
-STATUS       : Active
-
-LOCATION     : Earth 🌍
-
-OBJECTIVE    :
-Build powerful engineering software
-that works completely offline.
-
-MISSION TYPE :
-Engineering • Mathematics • Computing
-
-```
-
----
-
-# 🌌 About The Astronaut
-
 ```yaml
 Name: Mehedi Hasan
 
-Role: Software Explorer
+Call Sign: AlgebraX
 
-Focus:
+Status: Active
 
-  - Flutter
+Mission:
+Building fast, modern engineering software
+for students and professionals.
 
-  - C++
+Base:
+Bangladesh 🇧🇩
 
-  - Engineering Applications
+Specialization:
 
-  - Mathematics
+- Flutter
+- Dart
+- C++
+- Engineering Mathematics
+- Scientific Computing
 
-Current Mission:
-
-  AlgebraX Engineering Suite
-
-Status:
-
-  Always Learning 🚀
+Current Project:
+AlgebraX Engineering Suite
 ```
 
 ---
 
-# 🛸 Mission Payload
+# 🚀 Current Mission
 
-### AlgebraX Engineering Suite
+## AlgebraX Engineering Suite
 
-A next-generation engineering toolkit designed to replace multiple calculator apps with one intelligent offline platform.
+An all-in-one engineering platform replacing multiple engineering apps with one modern offline solution.
 
-### Payload Includes
+### Mission Modules
 
-🚀 Scientific Calculator
+🧮 Scientific Calculator
 
-📈 Graph Engine
+📈 Graph Plotter
+
+📐 Matrix Calculator
 
 📊 Statistics
-
-📐 Matrix Solver
 
 ⚡ Equation Solver
 
@@ -84,15 +66,17 @@ A next-generation engineering toolkit designed to replace multiple calculator ap
 
 🔌 Electrical Engineering
 
+🛰 Electronics Calculator
+
 💻 Programming Utilities
 
-🧮 Unit Converter
+📏 Unit Converter
 
-🌙 Modern Dark Interface
+🌙 Modern Dark UI
 
 ---
 
-# 🌠 Technology Constellation
+# 🌌 Technology Constellation
 
 <p align="center">
 
@@ -106,17 +90,11 @@ A next-generation engineering toolkit designed to replace multiple calculator ap
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamehedi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehedi&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
----
-
-# 📊 Orbital Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/YOUR_USERNAME)
 
 ---
 
@@ -124,7 +102,17 @@ A next-generation engineering toolkit designed to replace multiple calculator ap
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=iamehedi&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Orbital Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamehedi&theme=github-dark"/>
 
 </p>
 
@@ -134,93 +122,101 @@ A next-generation engineering toolkit designed to replace multiple calculator ap
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamehedi&theme=algolia&margin-w=15&no-frame=true"/>
 
 </p>
+
+---
+
+# 🛰 Spacecraft Systems
+
+| System | Status |
+|---------|--------|
+| Flutter | 🟢 Operational |
+| Dart | 🟢 Operational |
+| C++ | 🟢 Operational |
+| SQLite | 🟢 Operational |
+| Git | 🟢 Operational |
+| GitHub | 🟢 Operational |
 
 ---
 
 # 🌍 Current Orbit
 
 ```text
-🛰 Earth Orbit
+Orbit        : Low Earth Orbit
 
-Latitude  : Learning
+Velocity     : 7.66 km/s
 
-Longitude : Building
+Fuel         : Coffee ☕
 
-Velocity  : Fast
+Power        : 100%
 
-Fuel       : Coffee ☕
+Signal       : Strong
 
-Signal     : Strong
-
+Status       : Coding...
 ```
 
 ---
 
 # 📅 Flight Plan
 
-- 🚀 Release AlgebraX
-
-- 🌎 Publish on Google Play
-
+- 🚀 Release AlgebraX v1.0
+- 📱 Publish on Google Play
+- 💻 Build Windows Version
+- 🌎 Contribute to Open Source
 - 📈 Reach 1000 Contributions
-
-- ⚙ Master Modern C++
-
-- 🌌 Contribute to Open Source
+- ⚙ Master Advanced C++
 
 ---
 
-# 🪐 Spacecraft Systems
+# 🧠 Mission Philosophy
 
-| System | Status |
-|----------|--------|
-| Flutter | 🟢 Operational |
-| Dart | 🟢 Operational |
-| C++ | 🟢 Operational |
-| SQLite | 🟢 Operational |
-| Git | 🟢 Operational |
-| Engineering | 🟢 Operational |
+> "Engineering is exploration. Every solved problem is another step into the unknown."
 
 ---
 
-# 📡 Contact Mission Control
+# 🌠 Random Dev Quote
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</p>
+
+---
+
+# 📫 Contact Mission Control
+
+<p align="center">
+
+<a href="https://github.com/iamehedi">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-•
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a>
-
-•
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-Email
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-# 🌠 Quote From Mission Control
-
-> "The universe rewards those who continue exploring."
-
----
-
 # 🐍 Cosmic Trail
+
+> Enable the Snake GitHub Action first, then this image will appear.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/iamehedi/iamehedi/output/snake.svg"/>
 
 </p>
 
@@ -228,12 +224,10 @@ Email
 
 <div align="center">
 
-## 🌌 End of Transmission
+## 🌌 END OF TRANSMISSION
 
-Mission Control wishes you clear skies and successful launches.
+*"Keep exploring. Keep building."*
 
-⭐ Star this profile if you enjoyed the journey.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:000814,50:001D3D,100:003566"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:000814,50:001D3D,100:003566"/>
 
 </div>
