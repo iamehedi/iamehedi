@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000814,50:001D3D,100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Call%20Sign:%20AlgebraX&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000814,50:001D3D,100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Call%20Sign:%20Zyntrix Studio&descAlignY=58&descSize=20"/>
 
 # 🚀 MISSION CONTROL
 
