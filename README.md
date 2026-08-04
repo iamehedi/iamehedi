@@ -193,22 +193,27 @@ that with one offline-first suite** that just works, everywhere, every time.
 
 <br/>
 
-# 📡 Telemetry
+---
+
+<br/>
+
+# 🇵🇸 Palestine
 
 <p align="center">
-<img height="175" src="https://nice-readme.vercel.app/api?username=iamehedi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&count_private=true"/>
-<img height="175" src="https://nice-readme.vercel.app/api/top-langs/?username=iamehedi&layout=compact&theme=github_dark&hide_border=true"/>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
+    alt="Palestine Flag"
+    width="700"
+  />
+</p>
+
+<p align="center">
+  <b>Free Palestine 🇵🇸</b>
 </p>
 
 <br/>
 
-# 🔥 Mission Streak
-
-<p align="center">
-<img src="https://nice-readme.vercel.app/streak-stats?user=iamehedi&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<br/>
+---
 
 # 📊 Orbital Activity
 
