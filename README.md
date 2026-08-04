@@ -227,13 +227,7 @@ that with one offline-first suite** that just works, everywhere, every time.
 
 <br/>
 
-# 🏆 Mission Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iamehedi&theme=algolia&margin-w=15&no-frame=true&row=1"/>
-</p>
-
-<br/>
 
 ---
 
