@@ -433,7 +433,7 @@ Every module in this suite exists because I needed it first.
 
 <br/>
 
-**— Mehedi Hasan, Call Sign AlgebraX**
+**— Mehedi Hasan, Call Sign Zyntrix Studio**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:000814,50:001D3D,100:003566"/>
 
