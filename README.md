@@ -1,118 +1,251 @@
 <div align="center">
 
-<!-- ================= MASSIVE HERO SECTION ================= -->
-<div style="background: #0d1117; padding: 80px 20px; border: 4px solid #30363d; border-radius: 24px; margin: 20px 0; box-shadow: 0 0 50px rgba(88, 166, 255, 0.1);">
-  
-  <h1 style="font-size: 110px; margin: 0; color: #58A6FF; letter-spacing: 8px; font-weight: 900; text-shadow: 0 0 30px rgba(88, 166, 255, 0.4);">
-    MEHEDI HASAN
-  </h1>
-  
-  <p style="font-size: 40px; margin: 10px 0 30px 0; color: #c9d1d9; letter-spacing: 12px; font-weight: 300;">
-    FULL-STACK · MOBILE · SYSTEMS
-  </p>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050816,45:0B1F3A,100:123B5D&text=MEHEDI%20HASAN&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=FULL%20STACK%20%2F%2F%20MOBILE%20DEVELOPER&descAlignY=62&descSize=18&animation=fadeIn"
+width="100%"
+alt="Mehedi Hasan"
+/>
 
-  <div style="display: inline-block; background: #238636; padding: 15px 60px; border-radius: 60px; font-size: 32px; font-weight: bold; color: white; box-shadow: 0 0 20px rgba(35, 134, 54, 0.5);">
-    🟢 ONLINE & BUILDING
-  </div>
+<br>
 
-  <p style="font-size: 24px; color: #8b949e; margin-top: 30px;">
-    <strong style="color: #f0883e;">📍 Bangladesh</strong> &nbsp;·&nbsp; 
-    <strong style="color: #58A6FF;">📱 Flutter</strong> &nbsp;·&nbsp; 
-    <strong style="color: #3fb950;">⚡ C++</strong> &nbsp;·&nbsp; 
-    <strong style="color: #f0883e;">🌐 React</strong>
-  </p>
-  
+<a href="https://iamehedihsn.iam.bd">
+  <img src="https://img.shields.io/badge/PORTFOLIO-iamehedihsn.iam.bd-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/iamehedi">
+  <img src="https://img.shields.io/badge/GITHUB-iamehedi-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:iamehedihsn@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=iamehedi&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/iamehedi?label=FOLLOWERS&style=flat-square&color=58A6FF"/>
+
 </div>
 
-<!-- ================= THICK DIVIDER ================= -->
-<hr style="height: 6px; background: #58A6FF; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
+01 // WHO AM I?
 
-<!-- ================= MASSIVE PROJECT CARDS ================= -->
-<h2 style="font-size: 50px; color: #c9d1d9; letter-spacing: 4px; margin-bottom: 30px;">🚀 BIG PROJECTS</h2>
+Mehedi Hasan — Computer Science & Technology student, Full Stack Developer and Mobile Developer from Bangladesh.
 
-<table width="100%" style="border-collapse: separate; border-spacing: 20px;">
-  <tr>
-    <td width="50%" style="background: #161b22; border: 4px solid #30363d; border-radius: 24px; padding: 50px; vertical-align: top;">
-      <h1 style="font-size: 60px; color: #f0883e; margin: 0 0 10px 0;">⚡ AlgebraX</h1>
-      <p style="font-size: 24px; line-height: 1.6; color: #c9d1d9;">
-        Engineering Suite for students and professionals. <br/> 
-        <span style="color: #8b949e;">Offline-first · Modular · Local-first data</span>
-      </p>
-      <div style="margin-top: 20px;">
-        <span style="background: #0d1117; color: #3fb950; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Sci Calculator</span>
-        <span style="background: #0d1117; color: #58A6FF; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Graph Engine</span>
-        <span style="background: #0d1117; color: #f0883e; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Matrix Engine</span>
-      </div>
-    </td>
-    <td width="50%" style="background: #161b22; border: 4px solid #30363d; border-radius: 24px; padding: 50px; vertical-align: top;">
-      <h1 style="font-size: 60px; color: #58A6FF; margin: 0 0 10px 0;">🎓 CST Portal</h1>
-      <p style="font-size: 24px; line-height: 1.6; color: #c9d1d9;">
-        Comprehensive web platform for Computer Science students.<br/>
-        <span style="color: #8b949e;">Academic resources · Interactive UI · Fast & accessible</span>
-      </p>
-      <div style="margin-top: 20px;">
-        <span style="background: #0d1117; color: #ffffff; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Next.js</span>
-        <span style="background: #0d1117; color: #3fb950; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Supabase</span>
-        <span style="background: #0d1117; color: #f0883e; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Tailwind</span>
-      </div>
-    </td>
-  </tr>
-</table>
+I build modern web applications, cross-platform mobile apps and engineering-focused software with an obsession for clean interfaces, useful features and efficient architecture.
 
-<!-- ================= THICK DIVIDER ================= -->
-<hr style="height: 6px; background: #f0883e; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
+┌─────────────────────────────────────────────────────────────┐
+│  MEHEDI HASAN                                               │
+│  ─────────────────────────────────────────────────────────  │
+│  ROLE        Full Stack & Mobile Developer                  │
+│  FOCUS       Web • Mobile • Engineering Software            │
+│  BASE        Bangladesh 🇧🇩                                  │
+│  BUILD       Flutter • React • Next.js • Vite               │
+│  COMPUTE     C++ • Python • Scientific Computing             │
+│  DATA        Supabase • PostgreSQL • SQLite                  │
+│  PHILOSOPHY  Build useful things. Keep them fast.            │
+└─────────────────────────────────────────────────────────────┘
 
-<!-- ================= GIANT TECH ARSENAL ================= -->
-<h2 style="font-size: 50px; color: #c9d1d9; letter-spacing: 4px; margin-bottom: 30px;">🛠 TECH ARSENAL</h2>
+02 // THE STACK
 
-<div align="center" style="background: #0d1117; border: 4px solid #30363d; border-radius: 24px; padding: 60px; margin-bottom: 40px;">
-  
-  <h3 style="font-size: 36px; color: #58A6FF; margin-bottom: 20px;">📱 Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart&size=64" />
-  
-  <div style="height: 4px; width: 100px; background: #30363d; margin: 40px auto;"></div>
-  
-  <h3 style="font-size: 36px; color: #f0883e; margin-bottom: 20px;">🌐 Web & Backend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,supabase,postgres,sqlite&size=64" />
-  
-  <div style="height: 4px; width: 100px; background: #30363d; margin: 40px auto;"></div>
-  
-  <h3 style="font-size: 36px; color: #3fb950; margin-bottom: 20px;">⚙️ Systems & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,linux&size=64" />
-  
+◈ Frontend & Web
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,js" />
+</p>
+
+◈ Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+◈ Programming & Computing
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
+
+◈ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,firebase" />
+</p>
+
+◈ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,wordpress" />
+</p>
+
+03 // SELECTED BUILDS
+
+<div align="center">
+
+⚡ ALGEBRAX ENGINEERING SUITE
+
+A modern engineering calculation platform built around mathematics, science, programming and engineering tools.
+
 </div>
 
-<!-- ================= THICK DIVIDER ================= -->
-<hr style="height: 6px; background: #3fb950; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
+                     ALGEBRAX
+                        │
+        ┌───────────────┼────────────────┐
+        │               │                │
+   MATHEMATICS      ENGINEERING      UTILITIES
+        │               │                │
+   Calculator       Electrical        Unit Converter
+   Graph Engine     Electronics       Formula Library
+   Matrix Engine    Engineering       Programming Tools
+   Statistics       Tools
+   Equation Solver
 
-<!-- ================= BIG STATS BLOCK ================= -->
-<h2 style="font-size: 50px; color: #c9d1d9; letter-spacing: 4px; margin-bottom: 30px;">📊 SYSTEM LOGS</h2>
+Core principles
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 40px;">
-  <div style="background: #161b22; border: 3px solid #30363d; border-radius: 16px; padding: 30px 50px; min-width: 200px;">
-    <p style="font-size: 24px; color: #8b949e; margin: 0;">COMMITS</p>
-    <p style="font-size: 48px; color: #58A6FF; font-weight: bold; margin: 0;">⚡ Active</p>
-  </div>
-  <div style="background: #161b22; border: 3px solid #30363d; border-radius: 16px; padding: 30px 50px; min-width: 200px;">
-    <p style="font-size: 24px; color: #8b949e; margin: 0;">CURRENT FOCUS</p>
-    <p style="font-size: 36px; color: #f0883e; font-weight: bold; margin: 0;">AlgebraX</p>
-  </div>
-  <div style="background: #161b22; border: 3px solid #30363d; border-radius: 16px; padding: 30px 50px; min-width: 200px;">
-    <p style="font-size: 24px; color: #8b949e; margin: 0;">PHILOSOPHY</p>
-    <p style="font-size: 32px; color: #3fb950; font-weight: bold; margin: 0;">Solve & Build</p>
-  </div>
+OFFLINE-FIRST · FAST · MODULAR · LOCAL DATA · STUDENT-FOCUSED
+
+<div align="center">
+
+🎓 CST PORTAL
+
+A web-based platform focused on Computer Science & Technology students, academic information and useful student resources.
+
+WEB · EDUCATION · STUDENT TOOLS · RESPONSIVE UI
+
 </div>
 
-<!-- ================= MASSIVE FOOTER ================= -->
-<hr style="height: 6px; background: #58A6FF; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
+04 // WHAT I LIKE BUILDING
 
-<div align="center" style="margin: 80px 0;">
-  <p style="font-size: 80px; color: #30363d; letter-spacing: 20px; font-weight: 900; margin: 0;">
-    /// END TRANSMISSION ///
-  </p>
-  <a href="https://iamehedihsn.iam.bd" style="font-size: 28px; color: #58A6FF; text-decoration: none; font-weight: bold;">🚀 PORTFOLIO</a>
-  <span style="font-size: 28px; color: #30363d; margin: 0 20px;">|</span>
-  <a href="mailto:iamehedihsn@gmail.com" style="font-size: 28px; color: #c9d1d9; text-decoration: none;">✉️ EMAIL</a>
+┌─ SOFTWARE ─────────────────────────────────────────────────┐
+│                                                             │
+│  ▸ Modern web applications                                  │
+│  ▸ Cross-platform Flutter applications                      │
+│  ▸ Engineering & scientific computing tools                 │
+│  ▸ Offline-first software                                   │
+│  ▸ Student-focused platforms                                │
+│  ▸ Data-driven admin panels                                 │
+│  ▸ Clean, responsive interfaces                             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+05 // ENGINEERING MINDSET
+
+⚙️ Build
+
+Turn an idea into something people can actually use.
+
+🧠 Understand
+
+Learn the system behind the interface, not just the syntax.
+
+⚡ Optimize
+
+Keep applications responsive, efficient and practical.
+
+🧩 Simplify
+
+Good software should make complicated problems feel smaller.
+
+06 // CURRENTLY BUILDING
+
+Project
+
+Direction
+
+Status
+
+⚡ AlgebraX Engineering Suite
+
+Engineering & scientific computing
+
+🟢 Active
+
+🎓 CST Portal
+
+Student / academic platform
+
+🟢 Active
+
+🌐 Personal Portfolio
+
+Developer branding & projects
+
+🟢 Active
+
+07 // ROADMAP
+
+NOW
+ │
+ ├── Improve AlgebraX
+ │
+ ├── Build better web applications
+ │
+ ├── Deepen Flutter development
+ │
+ ├── Explore advanced C++
+ │
+ └── Contribute to Open Source
+          │
+          ▼
+       NEXT LEVEL
+
+08 // GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamehedi&theme=github-dark&hide_border=true" width="95%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamehedi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehedi&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+
 </div>
+
+09 // ENGINEERING LOG
+
++ 001  Offline-first is a promise, not just a feature.
++ 002  One useful application beats ten unfinished ones.
++ 003  C++ taught me to respect memory.
++ 004  Flutter taught me to respect interfaces.
++ 005  The best software often feels simpler than the problem.
+
+10 // CONNECT
+
+<div align="center">
+
+Let's build something useful.
+
+<br>
+
+<a href="https://iamehedihsn.iam.bd">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-58A6FF?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/iamehedi">
+<img src="https://img.shields.io/badge/⌘%20GITHUB-161B22?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mehedi-hasan-97583a392/">
+<img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:iamehedihsn@gmail.com">
+<img src="https://img.shields.io/badge/✉%20EMAIL-D14836?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+Mehedi HasanFull Stack & Mobile Developer · Computer Science & Technology
+
+</div>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:123B5D,55:0B1F3A,100:050816"
+width="100%"
+alt=""
+/>
+
+SYSTEM ONLINE // KEEP BUILDING
 
 </div>
