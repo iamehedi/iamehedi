@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000814,50:001D3D,100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=20" alt="Mehedi Hasan - Full Stack and Mobile Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=0:000814,50:001D3D,100:003566&amp;text=MEHEDI%20HASAN&amp;fontColor=ffffff&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=20" alt="Mehedi Hasan - Full Stack and Mobile Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Flutter+Developer;Full+Stack+Developer;React+%26+Next.js+Developer;Computer+Science+Student;Creator+of+AlgebraX;C%2B%2B+%26+Scientific+Computing;Building+Modern+Web+%26+Mobile+Apps;Welcome+to+Mission+Control"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Flutter+Developer;Full+Stack+Developer;React+%26+Next.js+Developer;Computer+Science+Student;Creator+of+AlgebraX;C%2B%2B+%26+Scientific+Computing;Building+Modern+Web+%26+Mobile+Apps;Welcome+to+Mission+Control" />
 
 <br/>
 
 <!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=iamehedi&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/iamehedi?label=FOLLOWERS&style=for-the-badge&color=58A6FF"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iamehedi&amp;label=PROFILE+VISITORS&amp;color=0e75b6&amp;style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/iamehedi?label=FOLLOWERS&amp;style=for-the-badge&amp;color=58A6FF" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" />
 
 <br/><br/>
 
@@ -114,10 +114,10 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamehedi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamehedi&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamehedi&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamehedi&amp;theme=radical&amp;hide_border=true&amp;background=0d1117" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamehedi&theme=github-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamehedi&amp;theme=github-dark&amp;hide_border=true&amp;bg_color=0d1117" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -134,7 +134,7 @@
   </thead>
   <tbody>
     <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Flutter</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Cross-platform mobile</td></tr>
-    <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">React & Next.js</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Modern web interfaces</td></tr>
+    <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">React &amp; Next.js</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Modern web interfaces</td></tr>
     <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">C++</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Performance &amp; scientific</td></tr>
     <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Supabase / PostgreSQL</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Backend &amp; data</td></tr>
     <tr><td style="padding:12px 16px;">WordPress</td><td style="padding:12px 16px; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px;">Content-driven websites</td></tr>
@@ -192,13 +192,13 @@ Open a channel. All frequencies monitored.
 <br/>
 
 <a href="https://github.com/iamehedi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 <a href="mailto:iamehedihsn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mehedi-hasan-97583a392/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -215,6 +215,6 @@ Open a channel. All frequencies monitored.
 
 — Mehedi Hasan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:000814,50:001D3D,100:003566"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=180&amp;color=0:000814,50:001D3D,100:003566"/>
 
 </div>
