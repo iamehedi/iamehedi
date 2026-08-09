@@ -8,7 +8,7 @@ alt="Mehedi Hasan"
 
 <br>
 
-BUILDING DIGITAL EXPERIENCES • ENGINEERING SOFTWARE • SOLVING PROBLEMS
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+Digital+Experiences+%E2%80%A2+Engineering+Software;Full+Stack+Developer+%7C+Mobile+Developer;Turning+Ideas+Into+Working+Software;Flutter+%E2%80%A2+React+%2F+Next.js+%E2%80%A2+C%2B%2B+%E2%80%A2+Python;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+To+The+World+%F0%9F%8C%8E&font=Fira%20Code&center=true&width=800&height=45&color=58A6FF&vCenter=true&size=22&pause=1800" alt="Typing SVG" />
 
 <br>
 
@@ -30,198 +30,195 @@ BUILDING DIGITAL EXPERIENCES • ENGINEERING SOFTWARE • SOLVING PROBLEMS
 <img src="https://komarev.com/ghpvc/?username=iamehedi&label=PROFILE%20VIEWS&color=58A6FF&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/iamehedi?label=FOLLOWERS&style=flat-square&color=58A6FF"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/iamehedi?label=STARS&style=flat-square&color=58A6FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-success?style=flat-square"/>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+
+## 👋 About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-👋 Hello, I'm Mehedi
+```yaml
+whoami:
+  name: "Mehedi Hasan"
+  role: "Full Stack Developer & Mobile Developer"
+  study: "Computer Science & Technology"
+  base: "Bangladesh 🇧🇩"
 
-I'm Mehedi Hasan, a Computer Science & Technology student, Full Stack Developer and Mobile Developer from Bangladesh.
+mission: >
+  Building modern web applications, cross-platform
+  mobile apps, and engineering-focused software —
+  with a relentless focus on clean UI, real
+  performance, and solutions that actually work.
 
-I build modern web applications, cross-platform mobile apps and engineering-focused software with a focus on clean UI, performance and practical solutions.
+currently:
+  - 📱 Crafting apps with Flutter & Dart
+  - 🌐 Shipping fast UIs with React, Next.js & Vite
+  - ⚙️  Writing performant C++ for scientific computing
+  - 🐍 Automating & prototyping with Python
+  - 🗄️  Modeling data in Supabase, PostgreSQL & SQLite
+  - 🧩 Extending WordPress for real-world clients
+  - 📴 Designing offline-first experiences
 
-Currently focused on
-
-📱 Flutter & Dart
-
-🌐 React, Next.js & Vite
-
-⚙️ C++ & Scientific Computing
-
-🐍 Python
-
-🗄️ Supabase, PostgreSQL & SQLite
-
-🧩 WordPress
-
-📴 Offline-first applications
+fun_fact: "I'd rather debug at 2 AM than leave a bug unsolved."
+```
 
 </td>
-
 <td width="45%" valign="top">
 
-⚡ Quick Profile
+<div align="center">
 
-name: Mehedi Hasan
-username: iamehedi
-location: Bangladesh 🇧🇩
+### ⚡ Quick Profile
 
-role:
-  - Full Stack Developer
-  - Mobile Developer
+| | |
+|---|---|
+| 🧑‍💻 **Name** | Mehedi Hasan |
+| 🏷️ **Username** | `@iamehedi` |
+| 📍 **Location** | Bangladesh 🇧🇩 |
+| 🎓 **Education** | Computer Science & Technology |
+| 💼 **Roles** | Full Stack · Mobile Dev |
+| 🎯 **Focus** | Web · Mobile · Engineering Software |
+| 🚧 **Status** | `Building...` |
+| 📬 **Reach me** | iamehedihsn@gmail.com |
 
-education:
-  - Computer Science & Technology
-
-focus:
-  - Web Development
-  - Mobile Development
-  - Engineering Software
-  - Scientific Computing
-
-status: Building...
+</div>
 
 </td>
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+
+## 🧩 Technology Stack
+
 <div align="center">
 
-🧩 TECHNOLOGY STACK
-
-WEB
+**Web Development**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,js" />
 
-MOBILE
+**Mobile Development**
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-PROGRAMMING
+**Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
-BACKEND & DATABASE
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,firebase" />
 
-TOOLS
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux,wordpress" />
 
 </div>
 
-🚀 FEATURED PROJECTS
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-⚡ AlgebraX
+### ⚡ AlgebraX
+**Engineering Suite**
 
-Engineering Suite
+An engineering-focused calculation platform combining mathematics, science, programming, and engineering tools into one modern, offline-first application.
 
-An engineering-focused calculation platform combining mathematics, science, programming and engineering tools into one modern application.
+**Highlights**
+- 🧮 Scientific Calculator
+- 📈 Graph Engine
+- 📐 Matrix Engine
+- 📊 Statistics Engine
+- ⚡ Equation Solver
+- 📚 Formula Library
+- 🔌 Electrical Engineering Tools
+- 📏 Unit Converter
+- 📴 Offline-first architecture
 
-Highlights
+**Built with**
 
-🧮 Scientific Calculator
-
-📈 Graph Engine
-
-📐 Matrix Engine
-
-📊 Statistics Engine
-
-⚡ Equation Solver
-
-📚 Formula Library
-
-🔌 Electrical Engineering Tools
-
-📏 Unit Converter
-
-📴 Offline-first architecture
-
-Built with
-
-Flutter Dart C++ SQLite
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </td>
 
 <td width="50%" valign="top">
 
-🎓 CST Portal
+### 🎓 CST Portal
+**Student Platform**
 
-Student Platform
+A web-based platform focused on Computer Science & Technology students, academic information, and useful student resources.
 
-A web-based platform focused on Computer Science & Technology students, academic information and useful student resources.
+**Focus**
+- 🎓 Academic resources
+- 📚 Student information
+- 🌐 Modern web interface
+- 📱 Responsive experience
+- ⚡ Fast and accessible UI
 
-Focus
+**Built for**
 
-🎓 Academic resources
-
-📚 Student information
-
-🌐 Modern web interface
-
-📱 Responsive experience
-
-⚡ Fast and accessible UI
-
-Built for
-
-Students Education Web
+![Students](https://img.shields.io/badge/Students-58A6FF?style=flat-square)
+![Education](https://img.shields.io/badge/Education-58A6FF?style=flat-square)
+![Web](https://img.shields.io/badge/Web-58A6FF?style=flat-square)
 
 </td>
 
 </tr>
 </table>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
 
-🧠 HOW I BUILD
-
-</div>
+## 🧠 How I Build
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-💡 THINK
-
+### 💡 THINK
 Understand the problem before writing the solution.
 
 </td>
 <td align="center" width="25%">
 
-🛠 BUILD
-
+### 🛠 BUILD
 Turn ideas into working software.
 
 </td>
 <td align="center" width="25%">
 
-⚡ OPTIMIZE
-
+### ⚡ OPTIMIZE
 Improve performance, usability and reliability.
 
 </td>
 <td align="center" width="25%">
 
-🚀 SHIP
-
+### 🚀 SHIP
 Turn finished work into something people can actually use.
 
 </td>
 </tr>
 </table>
 
-📊 GITHUB ACTIVITY
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -229,47 +226,57 @@ Turn finished work into something people can actually use.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamehedi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamehedi&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&count_private=true" height="170"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehedi&layout=compact&hide_border=true&theme=github_dark" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamehedi&theme=github-dark&hide_border=true" width="70%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iamehedi&theme=onedark&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
-🎯 CURRENTLY BUILDING
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+
+## 🎯 Currently Building
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-⚡ ALGEBRAX
-
+### ⚡ AlgebraX
 Engineering & scientific computing platform.
 
-ACTIVE
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)
 
 </td>
 <td width="33%" align="center">
 
-🎓 CST PORTAL
-
+### 🎓 CST Portal
 Student-focused academic platform.
 
-ACTIVE
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)
 
 </td>
 <td width="33%" align="center">
 
-🌐 PORTFOLIO
-
+### 🌐 Portfolio
 Personal developer website and project hub.
 
-ACTIVE
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-🛣️ ROADMAP
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
 
+## 🛣️ Roadmap — 2026
+
+```
 2026
  │
  ├── ⚡ Improve AlgebraX
@@ -278,39 +285,41 @@ ACTIVE
  │
  ├── 📱 Develop polished Flutter apps
  │
- ├── ⚙️ Deepen C++ & systems programming
+ ├── ⚙️  Deepen C++ & systems programming
  │
  ├── 🌎 Explore Open Source
  │
  └── 🚀 Ship more useful software
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+
+## 💬 Let's Collaborate
 
 <div align="center">
 
-📡 LET'S CONNECT
-
-Have an idea, project or collaboration in mind?
+I'm always open to interesting projects, freelance work, and open-source collaboration.
+If you've got an idea worth building — let's talk.
 
 <br>
 
 <a href="https://iamehedihsn.iam.bd">
 <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-58A6FF?style=for-the-badge"/>
 </a>
-
 <a href="https://github.com/iamehedi">
 <img src="https://img.shields.io/badge/⌘%20GITHUB-161B22?style=for-the-badge"/>
 </a>
-
 <a href="https://www.linkedin.com/in/mehedi-hasan-97583a392/">
 <img src="https://img.shields.io/badge/IN%20LINKEDIN-0A66C2?style=for-the-badge"/>
 </a>
-
 <a href="mailto:iamehedihsn@gmail.com">
 <img src="https://img.shields.io/badge/✉%20EMAIL-D14836?style=for-the-badge"/>
 </a>
 
 <br><br>
 
-Mehedi HasanFull Stack Developer · Mobile Developer · Computer Science & Technology
+**Mehedi Hasan**
+*Full Stack Developer · Mobile Developer · Computer Science & Technology*
 
 </div>
 
@@ -322,6 +331,6 @@ width="100%"
 alt=""
 />
 
-SYSTEM ONLINE • KEEP BUILDING • KEEP EXPLORING
+**SYSTEM ONLINE • KEEP BUILDING • KEEP EXPLORING**
 
 </div>
