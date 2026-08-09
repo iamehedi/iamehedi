@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816%2C45:0B1F3A%2C100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&descSize=19"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816%2C45:0B1F3A%2C100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%2B%20MOBILE%20DEVELOPER&descAlignY=60&descSize=19"
 width="100%"
 alt="Mehedi Hasan Banner"
 />
