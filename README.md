@@ -1,220 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=0:000814,50:001D3D,100:003566&amp;text=MEHEDI%20HASAN&amp;fontColor=ffffff&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=20" alt="Mehedi Hasan - Full Stack and Mobile Developer" />
+<!-- ================= MASSIVE HERO SECTION ================= -->
+<div style="background: #0d1117; padding: 80px 20px; border: 4px solid #30363d; border-radius: 24px; margin: 20px 0; box-shadow: 0 0 50px rgba(88, 166, 255, 0.1);">
+  
+  <h1 style="font-size: 110px; margin: 0; color: #58A6FF; letter-spacing: 8px; font-weight: 900; text-shadow: 0 0 30px rgba(88, 166, 255, 0.4);">
+    MEHEDI HASAN
+  </h1>
+  
+  <p style="font-size: 40px; margin: 10px 0 30px 0; color: #c9d1d9; letter-spacing: 12px; font-weight: 300;">
+    FULL-STACK · MOBILE · SYSTEMS
+  </p>
 
-<br/>
+  <div style="display: inline-block; background: #238636; padding: 15px 60px; border-radius: 60px; font-size: 32px; font-weight: bold; color: white; box-shadow: 0 0 20px rgba(35, 134, 54, 0.5);">
+    🟢 ONLINE & BUILDING
+  </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3200&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Flutter+Developer;Full+Stack+Developer;React+%26+Next.js+Developer;Computer+Science+Student;Creator+of+AlgebraX;C%2B%2B+%26+Scientific+Computing;Building+Modern+Web+%26+Mobile+Apps;Welcome+to+Mission+Control" />
-
-<br/>
-
-<!-- Badges -->
-<img src="https://komarev.com/ghpvc/?username=iamehedi&amp;label=PROFILE+VISITORS&amp;color=0e75b6&amp;style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/iamehedi?label=FOLLOWERS&amp;style=for-the-badge&amp;color=58A6FF" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge" />
-
-<br/><br/>
-
+  <p style="font-size: 24px; color: #8b949e; margin-top: 30px;">
+    <strong style="color: #f0883e;">📍 Bangladesh</strong> &nbsp;·&nbsp; 
+    <strong style="color: #58A6FF;">📱 Flutter</strong> &nbsp;·&nbsp; 
+    <strong style="color: #3fb950;">⚡ C++</strong> &nbsp;·&nbsp; 
+    <strong style="color: #f0883e;">🌐 React</strong>
+  </p>
+  
 </div>
 
-<br/>
+<!-- ================= THICK DIVIDER ================= -->
+<hr style="height: 6px; background: #58A6FF; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
 
-## 📡 About Me
+<!-- ================= MASSIVE PROJECT CARDS ================= -->
+<h2 style="font-size: 50px; color: #c9d1d9; letter-spacing: 4px; margin-bottom: 30px;">🚀 BIG PROJECTS</h2>
 
-<table width="100%">
+<table width="100%" style="border-collapse: separate; border-spacing: 20px;">
   <tr>
-    <td width="50%" style="border:1px solid #30363d; border-radius:12px; padding:20px; background:#0d1117; vertical-align:top;">
-      <p>I'm Mehedi Hasan, a Computer Science &amp; Technology student from Bangladesh. I build modern web and mobile applications with a focus on practical software engineering, performance, and clean interfaces.</p>
-      <ul style="list-style:none; padding-left:0; margin-top:12px;">
-        <li style="padding:4px 0;">📱 <strong>Flutter &amp; Dart</strong> — Cross-platform mobile</li>
-        <li style="padding:4px 0;">🌐 <strong>React, Next.js &amp; Vite</strong> — Modern web apps</li>
-        <li style="padding:4px 0;">⚙️ <strong>C++ &amp; Python</strong> — Performance &amp; automation</li>
-        <li style="padding:4px 0;">🗄️ <strong>Supabase, PostgreSQL &amp; SQLite</strong> — Application data</li>
-      </ul>
-    </td>
-    <td width="50%" style="border:1px solid #30363d; border-radius:12px; padding:20px; background:#0d1117; vertical-align:top;">
-      <h3 style="margin-top:0;">🛰 Mission Brief</h3>
-      <ul style="list-style:none; padding-left:0;">
-        <li style="padding:6px 0;"><strong>Name:</strong> Mehedi Hasan</li>
-        <li style="padding:6px 0;"><strong>Role:</strong> Full Stack &amp; Mobile Developer</li>
-        <li style="padding:6px 0;"><strong>Current Projects:</strong> AlgebraX, CST Portal</li>
-        <li style="padding:6px 0;"><strong>Philosophy:</strong> Build useful software. Keep it simple. Prioritize performance.</li>
-        <li style="padding:6px 0;"><strong>Portfolio:</strong> <a href="https://iamehedihsn.iam.bd" style="color:#58A6FF;">iamehedihsn.iam.bd</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" style="border:1px solid #30363d; border-radius:12px; padding:20px; background:#0d1117; vertical-align:top;">
-      <h3 style="margin-top:0;">⚡ AlgebraX Engineering Suite</h3>
-      <p style="color:#c9d1d9;">Engineering-focused calculation platform with a modern dark UI. Offline-first, modular, and local-first.</p>
-      <div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:12px;">
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">🧮 Sci Calculator</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">📈 Graph Engine</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">📐 Matrix Engine</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">⚡ Equation Solver</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">📚 Formula Library</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">🔌 Electrical Tools</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">🛰 Electronics Tools</span>
-        <span style="border:1px solid #30363d; border-radius:8px; padding:4px 10px; background:#161b22; font-size:0.85rem;">📏 Unit Converter</span>
-      </div>
-      <div style="margin-top:16px; font-size:0.9rem; color:#8b949e;">
-        ✔ Offline-first &bull; Modular &bull; Local-first data
+    <td width="50%" style="background: #161b22; border: 4px solid #30363d; border-radius: 24px; padding: 50px; vertical-align: top;">
+      <h1 style="font-size: 60px; color: #f0883e; margin: 0 0 10px 0;">⚡ AlgebraX</h1>
+      <p style="font-size: 24px; line-height: 1.6; color: #c9d1d9;">
+        Engineering Suite for students and professionals. <br/> 
+        <span style="color: #8b949e;">Offline-first · Modular · Local-first data</span>
+      </p>
+      <div style="margin-top: 20px;">
+        <span style="background: #0d1117; color: #3fb950; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Sci Calculator</span>
+        <span style="background: #0d1117; color: #58A6FF; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Graph Engine</span>
+        <span style="background: #0d1117; color: #f0883e; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Matrix Engine</span>
       </div>
     </td>
-    <td width="50%" style="border:1px solid #30363d; border-radius:12px; padding:20px; background:#0d1117; vertical-align:top;">
-      <h3 style="margin-top:0;">🎓 CST Portal</h3>
-      <p style="color:#c9d1d9;">A web-based platform for Computer Science &amp; Technology students, providing academic resources and information.</p>
-      <ul style="list-style:none; padding-left:0; margin-top:12px;">
-        <li style="padding:6px 0;">✔ Academic resources &amp; information</li>
-        <li style="padding:6px 0;">✔ Modern, responsive web interface</li>
-        <li style="padding:6px 0;">✔ Fast and accessible UI</li>
-      </ul>
+    <td width="50%" style="background: #161b22; border: 4px solid #30363d; border-radius: 24px; padding: 50px; vertical-align: top;">
+      <h1 style="font-size: 60px; color: #58A6FF; margin: 0 0 10px 0;">🎓 CST Portal</h1>
+      <p style="font-size: 24px; line-height: 1.6; color: #c9d1d9;">
+        Comprehensive web platform for Computer Science students.<br/>
+        <span style="color: #8b949e;">Academic resources · Interactive UI · Fast & accessible</span>
+      </p>
+      <div style="margin-top: 20px;">
+        <span style="background: #0d1117; color: #ffffff; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Next.js</span>
+        <span style="background: #0d1117; color: #3fb950; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Supabase</span>
+        <span style="background: #0d1117; color: #f0883e; border: 2px solid #30363d; padding: 10px 20px; border-radius: 20px; font-size: 20px; font-weight: bold;">Tailwind</span>
+      </div>
     </td>
   </tr>
 </table>
 
-<br/>
+<!-- ================= THICK DIVIDER ================= -->
+<hr style="height: 6px; background: #f0883e; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
 
-## 🌌 Technology Constellation
+<!-- ================= GIANT TECH ARSENAL ================= -->
+<h2 style="font-size: 50px; color: #c9d1d9; letter-spacing: 4px; margin-bottom: 30px;">🛠 TECH ARSENAL</h2>
 
-<div align="center" style="border:1px solid #30363d; border-radius:12px; padding:24px; background:#0d1117;">
-
-**📱 Mobile Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-<br/><br/>
-
-**🌐 Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,js" />
-<br/><br/>
-
-**⚙️ Programming &amp; Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python" />
-<br/>
-<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,firebase" />
-<br/><br/>
-
-**🧩 Tools &amp; CMS**
-<br/>
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,androidstudio,linux" />
-
+<div align="center" style="background: #0d1117; border: 4px solid #30363d; border-radius: 24px; padding: 60px; margin-bottom: 40px;">
+  
+  <h3 style="font-size: 36px; color: #58A6FF; margin-bottom: 20px;">📱 Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,dart&size=64" />
+  
+  <div style="height: 4px; width: 100px; background: #30363d; margin: 40px auto;"></div>
+  
+  <h3 style="font-size: 36px; color: #f0883e; margin-bottom: 20px;">🌐 Web & Backend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,supabase,postgres,sqlite&size=64" />
+  
+  <div style="height: 4px; width: 100px; background: #30363d; margin: 40px auto;"></div>
+  
+  <h3 style="font-size: 36px; color: #3fb950; margin-bottom: 20px;">⚙️ Systems & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode,linux&size=64" />
+  
 </div>
 
-<br/>
+<!-- ================= THICK DIVIDER ================= -->
+<hr style="height: 6px; background: #3fb950; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
 
-## 📊 GitHub Activity
+<!-- ================= BIG STATS BLOCK ================= -->
+<h2 style="font-size: 50px; color: #c9d1d9; letter-spacing: 4px; margin-bottom: 30px;">📊 SYSTEM LOGS</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamehedi&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamehedi&amp;theme=radical&amp;hide_border=true&amp;background=0d1117" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamehedi&amp;theme=github-dark&amp;hide_border=true&amp;bg_color=0d1117" alt="Activity Graph" />
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-bottom: 40px;">
+  <div style="background: #161b22; border: 3px solid #30363d; border-radius: 16px; padding: 30px 50px; min-width: 200px;">
+    <p style="font-size: 24px; color: #8b949e; margin: 0;">COMMITS</p>
+    <p style="font-size: 48px; color: #58A6FF; font-weight: bold; margin: 0;">⚡ Active</p>
+  </div>
+  <div style="background: #161b22; border: 3px solid #30363d; border-radius: 16px; padding: 30px 50px; min-width: 200px;">
+    <p style="font-size: 24px; color: #8b949e; margin: 0;">CURRENT FOCUS</p>
+    <p style="font-size: 36px; color: #f0883e; font-weight: bold; margin: 0;">AlgebraX</p>
+  </div>
+  <div style="background: #161b22; border: 3px solid #30363d; border-radius: 16px; padding: 30px 50px; min-width: 200px;">
+    <p style="font-size: 24px; color: #8b949e; margin: 0;">PHILOSOPHY</p>
+    <p style="font-size: 32px; color: #3fb950; font-weight: bold; margin: 0;">Solve & Build</p>
+  </div>
 </div>
 
-<br/>
+<!-- ================= MASSIVE FOOTER ================= -->
+<hr style="height: 6px; background: #58A6FF; border: none; width: 100%; border-radius: 4px; margin: 40px 0;" />
 
-## 🛰 Development Systems
-
-<table width="100%" style="border:1px solid #30363d; border-radius:12px; padding:10px; background:#0d1117; border-collapse:collapse;">
-  <thead>
-    <tr>
-      <th style="text-align:left; padding:12px 16px; border-bottom:1px solid #30363d; color:#8b949e;">Technology</th>
-      <th style="text-align:left; padding:12px 16px; border-bottom:1px solid #30363d; color:#8b949e;">Status</th>
-      <th style="text-align:left; padding:12px 16px; border-bottom:1px solid #30363d; color:#8b949e;">Primary Use</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Flutter</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Cross-platform mobile</td></tr>
-    <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">React &amp; Next.js</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Modern web interfaces</td></tr>
-    <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">C++</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Performance &amp; scientific</td></tr>
-    <tr><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Supabase / PostgreSQL</td><td style="padding:12px 16px; border-bottom:1px solid #30363d; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px; border-bottom:1px solid #30363d;">Backend &amp; data</td></tr>
-    <tr><td style="padding:12px 16px;">WordPress</td><td style="padding:12px 16px; color:#3fb950;">🟢 Active</td><td style="padding:12px 16px;">Content-driven websites</td></tr>
-  </tbody>
-</table>
-
-<br/>
-
-## 🧭 Current Goals &amp; 🧪 Engineering Log
-
-<table width="100%">
-  <tr>
-    <td width="50%" style="border:1px solid #30363d; border-radius:12px; padding:20px; background:#0d1117; vertical-align:top;">
-      <h3 style="margin-top:0;">🚀 Current Goals</h3>
-      <ul style="list-style:none; padding-left:0;">
-        <li style="padding:6px 0;">✓ Continue developing AlgebraX Engineering Suite</li>
-        <li style="padding:6px 0;">✓ Build useful software for Computer Science &amp; Technology students</li>
-        <li style="padding:6px 0;">✓ Deepen C++ and systems-level programming</li>
-        <li style="padding:6px 0;">✓ Contribute to open-source projects</li>
-      </ul>
-    </td>
-    <td width="50%" style="border:1px solid #30363d; border-radius:12px; padding:20px; background:#0d1117; vertical-align:top;">
-      <h3 style="margin-top:0;">🧪 Engineering Log</h3>
-      <ul style="list-style:none; padding-left:0; font-family: monospace;">
-        <li style="padding:6px 0;">🔹 [LOG 001] Offline-first isn't a feature — it's a promise.</li>
-        <li style="padding:6px 0;">🔹 [LOG 002] A useful application solves a real problem.</li>
-        <li style="padding:6px 0;">🔹 [LOG 003] One well-built tool beats ten half-built ones.</li>
-        <li style="padding:6px 0;">🔹 [LOG 004] C++ taught me memory. Flutter taught me UI.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🧠 Mission Philosophy
-
-<div align="center" style="border:1px solid #30363d; border-radius:16px; padding:30px; background:#0d1117; margin: 20px 0;">
-  <p style="font-size:1.2rem; font-style:italic; color:#c9d1d9;">
-    "Engineering is exploration. Every solved problem is another step into the unknown."
+<div align="center" style="margin: 80px 0;">
+  <p style="font-size: 80px; color: #30363d; letter-spacing: 20px; font-weight: 900; margin: 0;">
+    /// END TRANSMISSION ///
   </p>
-  <p style="margin-top:16px; color:#8b949e; font-style:normal;">
-    I build software because there are problems worth solving.
-  </p>
+  <a href="https://iamehedihsn.iam.bd" style="font-size: 28px; color: #58A6FF; text-decoration: none; font-weight: bold;">🚀 PORTFOLIO</a>
+  <span style="font-size: 28px; color: #30363d; margin: 0 20px;">|</span>
+  <a href="mailto:iamehedihsn@gmail.com" style="font-size: 28px; color: #c9d1d9; text-decoration: none;">✉️ EMAIL</a>
 </div>
-
-<br/>
-
-## 📫 Contact
-
-<div align="center">
-
-Open a channel. All frequencies monitored.
-
-<br/>
-
-<a href="https://github.com/iamehedi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-</a>
-<a href="mailto:iamehedihsn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mehedi-hasan-97583a392/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
-</a>
-
-<br/><br/>
-
-🌐 Portfolio: [iamehedihsn.iam.bd](https://iamehedihsn.iam.bd) &bull; 📧 Email: iamehedihsn@gmail.com
-
-<br/>
-
----
-
-**🌌 END OF TRANSMISSION**
-
-*Keep exploring. Keep building.*
-
-— Mehedi Hasan
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=180&amp;color=0:000814,50:001D3D,100:003566"/>
 
 </div>
