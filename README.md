@@ -334,3 +334,11 @@ alt=""
 **SYSTEM ONLINE • KEEP BUILDING • KEEP EXPLORING**
 
 </div>
+
+<br>
+
+<div align="center">
+
+🇵🇸 **Standing with Palestine** 🇵🇸
+
+</div>
