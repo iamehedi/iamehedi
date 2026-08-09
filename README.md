@@ -1,9 +1,9 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,45:0B1F3A,100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&descSize=19"
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816%2C45:0B1F3A%2C100:003566&text=MEHEDI%20HASAN&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%26%20MOBILE%20DEVELOPER&descAlignY=60&descSize=19"
 width="100%"
-alt="Mehedi Hasan"
+alt="Mehedi Hasan Banner"
 />
 
 <br>
@@ -39,7 +39,7 @@ alt="Mehedi Hasan"
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 👋 About Me
 
@@ -96,7 +96,7 @@ fun_fact: "I'd rather debug at 2 AM than leave a bug unsolved."
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 🧩 Technology Stack
 
@@ -124,7 +124,7 @@ fun_fact: "I'd rather debug at 2 AM than leave a bug unsolved."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 🚀 Featured Projects
 
@@ -183,7 +183,7 @@ A web-based platform focused on Computer Science & Technology students, academic
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 🧠 How I Build
 
@@ -216,7 +216,7 @@ Turn finished work into something people can actually use.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 📊 GitHub Activity
 
@@ -239,7 +239,7 @@ Turn finished work into something people can actually use.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 🎯 Currently Building
 
@@ -272,7 +272,7 @@ Personal developer website and project hub.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 🛣️ Roadmap — 2026
 
@@ -292,7 +292,7 @@ Personal developer website and project hub.
  └── 🚀 Ship more useful software
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:003566&height=2&width=100%25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816%2C100:003566&height=2&width=100%25"/>
 
 ## 💬 Let's Collaborate
 
@@ -326,7 +326,7 @@ If you've got an idea worth building — let's talk.
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:003566,50:0B1F3A,100:050816"
+src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:003566%2C50:0B1F3A%2C100:050816"
 width="100%"
 alt=""
 />
