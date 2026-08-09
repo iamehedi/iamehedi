@@ -339,6 +339,12 @@ alt=""
 
 <div align="center">
 
-🇵🇸 **Standing with Palestine** 🇵🇸
+<br>
 
-</div>
+<img src="https://flagcdn.com/w160/ps.png" width="90" alt="Palestine Flag"/>
+
+### 🇵🇸 I Stand With Palestine 🇵🇸
+
+<br>
+
+</div></div>
